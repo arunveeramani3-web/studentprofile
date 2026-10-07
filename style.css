@@ -1,0 +1,35 @@
+body {
+    background-color: lightblue;
+    font-family: Arial;
+    background-image: url('wolf.avif');
+    background-size: cover;
+}
+
+.student-card {
+    width: 400px;
+    background-color: white;
+    margin: 100px auto;
+    padding: 30px;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.student-card h1 {
+    color: darkblue;
+}
+
+.student-card h2 {
+    color: green;
+}
+
+.student-card p {
+    font-size: 18px;
+}
+
+.student-card a {
+    color: white;
+    background-color: blue;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
